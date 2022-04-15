@@ -64,7 +64,6 @@ const fetchISSFlyOverTimes = function(coords, callback) {
   });
 };
 
-
 //----------------------------------------------------------------------------
  const nextISSTimesForMyLocation = function(callback) {
   
